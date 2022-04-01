@@ -1,2 +1,3 @@
-# freeCodeCamp-responsive-web-design-certification-project-3
- A Product Landing Page
+# A Product Landing Page
+
+freeCodeCamp - Responsive Web Design certification Project 3
